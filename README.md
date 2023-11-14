@@ -1,2 +1,2 @@
-# HW-CHALLENGE-1
+# hw-challenge-1
 HW-Horiseon
