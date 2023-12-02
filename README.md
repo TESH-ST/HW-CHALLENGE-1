@@ -1,4 +1,4 @@
-# hw-challenge-1
+# Horiseon
 HW-Horiseon
 ## Description
 
@@ -22,5 +22,4 @@ n/a
 ## License
 
 The last section of a high-quality README file is the license. 
----
 
