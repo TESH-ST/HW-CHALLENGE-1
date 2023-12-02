@@ -1,4 +1,4 @@
-# hw-challenge-1
+# Horiseon
 HW-Horiseon
 ## Description
 
